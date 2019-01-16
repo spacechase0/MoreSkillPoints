@@ -1,0 +1,12 @@
+﻿{
+  "id": "spacechase0.MoreSkillPoints",
+  "name": "More Skill Points",
+  "description": "Twice as many skill points! Works retroactively. Permanent upon saving.",
+  "author": "spacechase0",
+  "version": "1.0.0",
+  "type": "assembly",
+  "assembly": {
+    "dll": "MoreSkillPoints.dll",
+    "class": "MoreSkillPoints.Mod"
+  }
+}
